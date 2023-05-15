@@ -1,1 +1,1 @@
-# Calculator
+To run this application you must click the run button first to activate the program. After this is done it will ask you to choose an operator. Left click the line right below this sentance, insert your operator, and press the enter key. Enter your first number and then press the enter key. Enter your second number and then press the enter key. Your problem should now be solved.
